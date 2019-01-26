@@ -1,0 +1,32 @@
+Note: an X means the task is completed
+
+
+
+Part 1 focuses on the design of the production database tables and sql scripts to create the
+database and load with initial data and the web app written in python that will use the
+tables.
+
+[X] a. There must be at least 3 tables with primary and foreign keys in the design.
+
+[X] b. For part 1, you will deliver a document that briefly describes your application, its
+	information needs, its users and user interactions, the database and contains an E-
+	R diagram of the database model.
+
+[X] c. The document must also explain why the design is normalized or why you have
+	chosen a denormalized design.
+
+[X] d. Create a single pdf file as your project document.
+[X] 	i. The PDF document must have a title page with the names of all group
+	members. The document must have page numbers (these will be used by
+	the instructor to give you feedback)
+
+[ ] e. Create an SQL script(s) that will create the tables and load them with initial data.
+
+[X] f. Create a Git account for the project that contains	
+[X] 	i. pdf document and the source files to create the PDF.
+[ ] 	ii. SQL script(s) to create and load the tables
+[ ] 	iii. the .mdb workbench design file.
+[ ] 	iv. html, py python files and other files needed by your web app.
+[ ] 	v. submit the url of the Git account to the iLearn project assignment.
+
+

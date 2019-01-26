@@ -25,7 +25,7 @@ tables.
 [X] f. Create a Git account for the project that contains	
 [X] 	i. pdf document and the source files to create the PDF.
 [ ] 	ii. SQL script(s) to create and load the tables
-[ ] 	iii. the .mdb workbench design file.
+[X] 	iii. the .mdb workbench design file.
 [ ] 	iv. html, py python files and other files needed by your web app.
 [ ] 	v. submit the url of the Git account to the iLearn project assignment.
 

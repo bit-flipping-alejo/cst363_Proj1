@@ -20,13 +20,13 @@ tables.
 	members. The document must have page numbers (these will be used by
 	the instructor to give you feedback)
 
-[ ] e. Create an SQL script(s) that will create the tables and load them with initial data.
+[X] e. Create an SQL script(s) that will create the tables and load them with initial data.
 
 [X] f. Create a Git account for the project that contains	
 [X] 	i. pdf document and the source files to create the PDF.
-[ ] 	ii. SQL script(s) to create and load the tables
+[X] 	ii. SQL script(s) to create and load the tables
 [X] 	iii. the .mdb workbench design file.
-[ ] 	iv. html, py python files and other files needed by your web app.
-[ ] 	v. submit the url of the Git account to the iLearn project assignment.
+[X] 	iv. html, py python files and other files needed by your web app.
+[X] 	v. submit the url of the Git account to the iLearn project assignment.
 
 
